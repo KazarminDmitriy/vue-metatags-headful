@@ -1,0 +1,31 @@
+{
+  "name": "@phoenix91/vue-metatags-headful",
+  "version": "0.1.0",
+  "description": "Plugin for set meta tags. Vue-metatags-headful is a wrapper around vue-headful",
+  "keywords": [
+    "vue",
+    "vue2",
+    "head",
+    "title",
+    "meta",
+    "metatag",
+    "h1",
+    "seo",
+    "vue-headful"
+  ],
+  "author": "Kazarmin Dmitriy",
+  "license": "MIT",
+  "homepage": "https://github.com/KazarminDmitriy/vue-metatags-headful#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazarminDmitriy/vue-metatags-headful.git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue-headful": "^2.1.0",
+    "lodash.get": "*"
+  }
+}
